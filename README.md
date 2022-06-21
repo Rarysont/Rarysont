@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating program system since 2020<br>📚 I'm currently learning Ruby, Python and English.<br>🎯 Goals: Speak English and learn new technologies<br>🎲 Fun fact: I play games</p>
+<p align="left">✨ Creating programs since 2020<br>📚 I'm currently learning Ruby, Python and English.<br>🎯 Goals: Speak English and learn new technologies<br>🎲 Fun fact: I play games</p>
 
 ###
 
