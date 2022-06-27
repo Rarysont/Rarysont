@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating programs since 2020<br>📚 I'm currently learning Ruby, Python and English.<br>🎯 Goals: Speak English and learn new technologies<br>🎲 Fun fact: I like to play games and play soccer with my friends</p>
+<p align="left">✨ Creating programs since 2020<br>📚 I'm currently learning Ruby, Python and English.<br>🎯 Goals: Speak English and learn new technologies<br>🎲</p>
 
 ###
 
